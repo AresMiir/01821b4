@@ -1,0 +1,123 @@
+{
+    "name": "PlutoTV - TV 🇪🇸",
+    "author": "Actualizada 21/04/2024 10:30",
+    "epg": "https://i.mjh.nz/PlutoTV/es.xml.gz",
+    "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
+    "url": "https://helmerluzo.github.io/PlutoTV_HL/tv/w3u/PlutoTV_tv_ES.w3u",
+    "groups": [
+        {
+            "name": "Nuevo en Pluto TV",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/6190405e35f3910007fc2bd3.png",
+            "stations": [
+                {
+                    "name": "Blue Bloods",
+                    "image": "https://images.pluto.tv/channels/65786a1ccbd0d60008f7e2a9/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65786a1ccbd0d60008f7e2a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5cb90fdc-ffb9-11ee-850f-7e557594648a",
+                    "epgId": "65786a1ccbd0d60008f7e2a9"
+                },
+ 		{
+                    "name": "Canela TV",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_tv-16x9_0.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=653",
+                    "epgId": "canela-tv"
+                },
+                {
+                    "name": "Canela Cinema",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_cinema-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=3134",
+                    "epgId": "canela-cinema-0"
+                },
+                {
+                    "name": "Canela Clásicos",
+                    "image": "https://img.static-ottera.com/prod/cnm/linear_channel/logo/channel-canela_clasicos-16x9.jpg",
+                    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=652",
+                    "epgId": "canela-clasicos"
+                },
+                {
+                    "name": "Al salir de clase",
+                    "image": "https://images.pluto.tv/channels/65b91e530d9ab40008340d8d/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65b91e530d9ab40008340d8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5cb90fdc-ffb9-11ee-850f-7e557594648a",
+                    "epgId": "65b91e530d9ab40008340d8d"
+                },
+                {
+                    "name": "Pluto TV Series criminales",
+                    "image": "https://images.pluto.tv/channels/65cf6ab58145cb0008129ca8/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65cf6ab58145cb0008129ca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5cb90fdc-ffb9-11ee-850f-7e557594648a",
+                    "epgId": "65cf6ab58145cb0008129ca8"
+                },
+                {
+                    "name": "Pluto TV Psycho",
+                    "image": "https://images.pluto.tv/channels/65ce480a78df2200131c597b/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65ce480a78df2200131c597b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5cb90fdc-ffb9-11ee-850f-7e557594648a",
+                    "epgId": "65ce480a78df2200131c597b"
+                },
+                {
+                    "name": "Realmadrid TV",
+                    "image": "https://images.pluto.tv/channels/65f96cd34e01740008ef1c97/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/65f96cd34e01740008ef1c97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5cb90fdc-ffb9-11ee-850f-7e557594648a",
+                    "epgId": "65f96cd34e01740008ef1c97"
+                }
+            ]
+        },
+        {
+            "name": "Series",
+            "image": "https://helmerluzo.github.io/PlutoTV_HL/tv/logos/619041a006d23b0007375107.png",
+            "stations": [
+                {
+                    "name": "Embrujadas",
+                    "image": "https://images.pluto.tv/channels/657868a7a620e30008fdbfeb/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/657868a7a620e30008fdbfeb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5cb90fdc-ffb9-11ee-850f-7e557594648a",
+                    "epgId": "657868a7a620e30008fdbfeb"
+                },
+	 	{
+         	 "name": "GOL Play",
+          	"image": "https://graph.facebook.com/goltv.es/picture?width=200&height=200",
+         	 "url": "https://www.goltelevision.com/en-directo",
+          	"epgId": "GOL.TV"
+       		 },
+       		 {
+         	 "name": "Real Madrid TV",
+          	"image": "https://graph.facebook.com/RealMadrid/picture?width=200&height=200",
+         	 "url": "https://www.realmadrid.com/real-madrid-tv",
+          	"epgId": "RMTV.TV"
+        	},
+        	{
+         	 "name": "Betis TV",
+          	"image": "https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200",
+          	"url": "https://www.realbetisbalompie.es/rtvbetis/directo-tv/",
+          	"epgId": "BetisTV.TV"
+        	},
+		{
+         	 "name": "Cines Verdi",
+          	"image": "https://graph.facebook.com/goltv.es/picture?width=200&height=200",
+         	 "url": "https://www.tivify.tv/player?channel=VERDI_TV",
+          	"epgId": "GOL.TV"
+       		 },
+		{
+         	 "name": "PLUTO TV PRUEBAS",
+          	"image": "https://graph.facebook.com/goltv.es/picture?width=200&height=200",
+         	 "url": "https://pluto.tv/es/live-tv/60d356a534f63f000850cdd7",
+          	"epgId": "GOL.TV"
+       		 },
+		{
+         	 "name": "RAKUTEN TV",
+          	"image": "https://graph.facebook.com/goltv.es/picture?width=200&height=200",
+         	 "url": "https://www.rakuten.tv/es/live_channels/top-free-es-rakuten-tv",
+          	"epgId": "GOL.TV"
+       		 },
+		{
+         	 "name": "PLEX TV",
+          	"image": "https://graph.facebook.com/goltv.es/picture?width=200&height=200",
+         	 "url": "https://watch.plex.tv/es/live-tv/channel/novelisima",
+          	"epgId": "GOL.TV"
+       		 },
+                {
+                    "name": "iCarly",
+                    "image": "https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png",
+                    "url": "https://stitcher.pluto.tv/stitch/hls/channel/6181404ef48321000797bc41/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=5cb90fdc-ffb9-11ee-850f-7e557594648a",
+                    "epgId": "6181404ef48321000797bc41"
+                }
+            ]
+        }
+    ]
+}
