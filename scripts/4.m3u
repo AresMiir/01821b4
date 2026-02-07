@@ -1,0 +1,5 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/es.xml.gz"
+#EXTINF:0 type="stream" channelId="1321", La 2
+dtv://antenna:45/dvb/2
+#EXTINF:0 type="stream" channelId="1320", La 1
+dtv://antenna:45/dvb/1
