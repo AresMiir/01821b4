@@ -1,0 +1,15 @@
+name: Mantener Space Vivo
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Se ejecuta automáticamente todos los días a las 12:00 UTC
+  workflow_dispatch:      # Permite ejecutarlo manualmente para probar
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Enviar señal al Space
+        run: |
+          curl -f -L -H "Authorization: Bearer ${{ secrets.HF_TOKEN }}" \
+          https://huggingface.co
